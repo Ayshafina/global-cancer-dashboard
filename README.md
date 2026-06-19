@@ -27,10 +27,10 @@ Dataset (`Dataset.xlsx`) includes:
 ## Dashboard Pages
 
 ### 1. Patient Details Dashboard
-![Patient Details](cacer2.png)
+![Patient Details](Patient_Details.png)
 
 ### 2. Causes of Cancer Dashboard
-![Causes of Cancer](cancer3.png)
+![Causes of Cancer](Causes_Of_Cancer.png)
 
 ---
 
