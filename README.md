@@ -8,7 +8,7 @@ The goal is to transform raw healthcare data into meaningful insights using data
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Power BI
 - Microsoft Excel
 - Data Cleaning & Visualization
