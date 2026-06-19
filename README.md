@@ -1,5 +1,5 @@
 # 🧬 Global Cancer Patient Analytics Dashboard
-
+![Global Cancer Patient](Global_Cancer_Patient.png)
 ## Project Overview
 This project is a Power BI dashboard built to analyze global cancer patient data.  
 It provides insights into patient distribution, causes of cancer, and key healthcare trends.
